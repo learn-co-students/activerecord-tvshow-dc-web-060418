@@ -2,7 +2,10 @@ require "bundler/setup"
 require 'yaml'
 require 'active_record'
 
+
 Bundler.require
+
+
 
 
 DBNAME = "tvshows"
